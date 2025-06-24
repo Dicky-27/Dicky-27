@@ -5,7 +5,7 @@ I'm a developer who enjoys building things, experimenting with new ideas, and ex
 
 ---
 
-## 🏆 Hackathons
+## Hackathons
 
 - ETH-Online 2023 (Best Mobile App)
 - ETH-Global Singapore 2024 (Finalist)
